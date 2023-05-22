@@ -1,3 +1,22 @@
-# 2DOF-serial-painter-robot(accepted paper in ICROM 2022 will be published in IEEE)
-A 2 DOF serial link structure was designed in SolidWorks software 2- Its dynamic and kinematic equations were derived and simulated in Matlab(Simulink) 3- Different kinds of adaptive controllers were tested (LIP, Robust Control Based on Passivity, Adaptive Passivity). However, all had some problems, and as a result FAT controller was investigated. 4- Moreover, due to other issues FAT controller was not enough, so a neural network controller was also proposed. 5- after the simulation, the robot was printed and assembled. 
+2DOF Serial Painter Robot
 
+This repository contains the code and design files for a 2-degree-of-freedom (2DOF) serial link structure painter robot. The project aims to develop a robot capable of performing painting tasks efficiently and accurately.
+Features
+
+    Design: The robot structure was designed using SolidWorks software, ensuring a robust and functional mechanism.
+
+    Simulation: The dynamic and kinematic equations of the robot were derived and simulated in Matlab (Simulink), providing a comprehensive understanding of its behavior.
+
+    Adaptive Controllers: Various adaptive controllers, including LIP (Linear Inverted Parameter), Robust Control Based on Passivity, and Adaptive Passivity, were tested. However, each controller exhibited certain limitations and issues.
+
+    FAT Controller: Considering the shortcomings of the previous controllers, the investigation focused on the FAT (Function Approximation Technique) controller, which showed promising results.
+
+    Neural Network Controller: In addition to the FAT controller, a neural network controller was proposed to address specific challenges and augment the robot's performance.
+
+    Hardware Implementation: After successful simulation, the robot was physically realized through 3D printing and assembly.
+
+Accessing the Research Paper
+
+For a detailed understanding of the project, please refer to the research paper published at IEEE Xplore. You can access the paper using the following link: https://ieeexplore.ieee.org/document/10025162
+
+Feel free to explore the code and design files provided in this repository. For any questions or inquiries, please contact me.
