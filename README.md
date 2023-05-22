@@ -1,6 +1,8 @@
 **2DOF Serial Painter Robot**
 
 This repository contains the code and design files for a 2-degree-of-freedom (2DOF) serial link structure painter robot. The project aims to develop a robot capable of performing painting tasks efficiently and accurately.
+
+
 **Features**
 
 1-Design: The robot structure was designed using SolidWorks software, ensuring a robust and functional mechanism.
